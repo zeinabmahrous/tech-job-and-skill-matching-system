@@ -49,7 +49,7 @@ Job Matching
 
 
 
-🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 The project uses multiple classification algorithms:
 
@@ -66,7 +66,7 @@ The models are compared to determine the most suitable approach for the job-matc
 
 
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 
 The models are evaluated using:
 
@@ -78,7 +78,7 @@ Confusion Matrix
 ROC-AUC
 
 
-🛠️ Technologies
+## 🛠️ Technologies
 Machine Learning & Data Science
 Python
 Pandas
@@ -95,7 +95,7 @@ Python
 Flask
 
 
-tech-job-and-skill-matching-system/
+## tech-job-and-skill-matching-system/
 │
 ├── data/
 │
@@ -124,7 +124,7 @@ tech-job-and-skill-matching-system/
 
 
 
-🚀 Live Demo
+## 🚀 Live Demo
 Try the application
 
 👉 https://tech-job-and-skill-matching-system.vercel.app/
@@ -133,7 +133,7 @@ Try the application
 
 
 
-⚙️ Run Locally
+## ⚙️ Run Locally
 Clone the repository
 git clone https://github.com/YOUR_USERNAME/tech-job-and-skill-matching-system.git
 Navigate to the project
@@ -149,7 +149,7 @@ http://localhost:3000
 
 
 
-🐍 Backend Setup
+## 🐍 Backend Setup
 
 Create a virtual environment:
 
@@ -168,7 +168,7 @@ Run the backend:
 python server/app.py
 
 
-📸 Project Preview
+## 📸 Project Preview
 
 The application provides an interactive interface for entering user information and obtaining suitable technology job matches.
 
@@ -176,7 +176,7 @@ public/screenshots/home.png
 
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Improve job-matching accuracy
 Add more job categories
 Add personalized career recommendations
