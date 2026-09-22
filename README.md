@@ -129,6 +129,10 @@ Try the application
 
 👉 https://tech-job-and-skill-matching-system.vercel.app/
 
+
+
+
+
 ⚙️ Run Locally
 Clone the repository
 git clone https://github.com/YOUR_USERNAME/tech-job-and-skill-matching-system.git
@@ -142,6 +146,9 @@ npm run dev
 The application will run locally at:
 
 http://localhost:3000
+
+
+
 🐍 Backend Setup
 
 Create a virtual environment:
@@ -159,11 +166,15 @@ pip install -r requirements.txt
 Run the backend:
 
 python server/app.py
+
+
 📸 Project Preview
 
 The application provides an interactive interface for entering user information and obtaining suitable technology job matches.
 
-Add project screenshots here.
+public/screenshots/home.png
+
+
 
 🔮 Future Improvements
 Improve job-matching accuracy
